@@ -17,7 +17,7 @@ Se muestra a continuación las fases de la matriz de ataque de CyberKillChain.
 
 ## Datos trabajo práctico
 
-Habiendo conocido el modelo de Cyber Kill Chain, este será aplicado a mi trabajo práctico, el cual describo a continuación
+Habiendo conocido el modelo de Cyber Kill Chain, este será aplicado a mi trabajo práctico, el cual describo a continuación.
 
 Título de trabajo práctico: Sistema de Monitoreo inteligente del consumo de agua.
 
@@ -33,9 +33,9 @@ la lectura del caudal que pasa por el punto monitoreado. Los datos deberán ser 
 través de un broker MQTT, para su almacenamiento en una base de datos. En el frente de
 visualización de la información, se propone la creación de aplicación que permita mostrar el
 flujo de agua en el punto monitoreado, así como su consumo acumulado durante un tiempo
-definido. En la figura, se muestra diagrama ilustrativo de la solución
+definido. En la figura, se muestra diagrama ilustrativo de la solución:
 
-(![Alt text](img/DiagramaConceptualSmartWater.png))
+![Alt text](img/DiagramaConceptualSmartWater.png)
 
 
 En la capa de sensorización, se necesitará de un dispositivo que permita capturar el caudal
