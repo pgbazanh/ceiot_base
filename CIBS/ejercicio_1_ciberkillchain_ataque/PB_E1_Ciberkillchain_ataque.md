@@ -12,7 +12,7 @@ Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenar
 
 Se muestra a continuación las fases de la matriz de ataque de CyberKillChain.
 
-[image desc](img/ckc1.png)
+![Alt text](img/ckc1.png)
 
 
 ## Datos trabajo práctico
@@ -35,7 +35,8 @@ visualización de la información, se propone la creación de aplicación que pe
 flujo de agua en el punto monitoreado, así como su consumo acumulado durante un tiempo
 definido. En la figura, se muestra diagrama ilustrativo de la solución
 
-[label](PB_E1_Ciberkillchain_ataque.md)
+(![Alt text](img/DiagramaConceptualSmartWater.png))
+
 
 En la capa de sensorización, se necesitará de un dispositivo que permita capturar el caudal
 en tiempo real del agua que pasa por un punto específico. Este dispositivo deberá ser capaz
