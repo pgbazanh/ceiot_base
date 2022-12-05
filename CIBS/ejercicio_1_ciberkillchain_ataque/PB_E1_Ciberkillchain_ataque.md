@@ -48,12 +48,18 @@ enviados por los sensores. Estos podrían ser alojados por un servicio de nube o
 on premise.
 Los datos procesados inicialmente por el broker MQTT deberán ser almacenados en un
 servicio de repositorio que permita la guardar la siguiente información:
+
 ● ID del dispositivo
+
 ● Fecha y hora de captura
+
 ● Dato del caudal detectado
 El aplicativo alojado en un servicio de nube, tendrá como objetivo básico mostrar:
+
 ● Caudal en tiempo real del sensor desplegado
+
 ● Caudal acumulado en un periodo definido
+
 Opcionalmente, se podría complementar con mayor información o inteligencia, que permita
 comparar información histórica en un periodo anterior, con el fin de alertar de posibles
 anomalías en el consumo.
