@@ -35,7 +35,7 @@ visualización de la información, se propone la creación de aplicación que pe
 flujo de agua en el punto monitoreado, así como su consumo acumulado durante un tiempo
 definido. En la figura, se muestra diagrama ilustrativo de la solución:
 
-
+![Alt text](img/SistemaIoTAgua.png)
 
 
 En la capa de sensorización, se necesitará de un dispositivo que permita capturar el caudal
