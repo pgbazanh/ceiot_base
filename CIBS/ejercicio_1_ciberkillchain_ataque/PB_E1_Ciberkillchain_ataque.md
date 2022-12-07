@@ -35,7 +35,7 @@ visualización de la información, se propone la creación de aplicación que pe
 flujo de agua en el punto monitoreado, así como su consumo acumulado durante un tiempo
 definido. En la figura, se muestra diagrama ilustrativo de la solución:
 
-![Alt text](img/DiagramaConceptualSmartWater.png)
+
 
 
 En la capa de sensorización, se necesitará de un dispositivo que permita capturar el caudal
@@ -116,4 +116,7 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 ### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
 ● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
+
+● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
+
 
