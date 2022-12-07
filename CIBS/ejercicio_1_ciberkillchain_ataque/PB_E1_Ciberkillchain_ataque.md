@@ -56,16 +56,55 @@ servicio de repositorio que permita la guardar la siguiente información:
 ● Dato del caudal detectado
 El aplicativo alojado en un servicio de nube, tendrá como objetivo básico mostrar.
 
-● Caudal en tiempo real del sensor desplegado.
+    ● Caudal en tiempo real del sensor desplegado.
 
-● Caudal acumulado en un periodo definido.
+    ● Caudal acumulado en un periodo definido.
 
-Opcionalmente, se podría complementar con mayor información o inteligencia, que permita
-comparar información histórica en un periodo anterior, con el fin de alertar de posibles
-anomalías en el consumo.
+Esta información estará disponible en aplicativo que permitirá mostrar la información en tiempo real y de forma histórica. 
+
+Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el consumo del punto cuando el consumo de agua se vea excedido por un % superior al consumo histórico, con el fin de que el usuario pueda tomar medidas correctivas.
+
 
 ## Resolución
 
-### Etapa 1: Reconnaissance
+### **Etapa 1: Reconnaissance (Reconocimiento)**
+
+**Acciones de reconocimiento con respecto a la red de sensonres:**
+
+● Identificación visual de sensores de medición de agua, distribuidos en puntos de salida de agua, como grifos. 
+
+● Identificación de la ubicación con acceso más sencilla a los sensores que formen parte de la red. 
+
+● Escaneo de señal wifi de transmisión desde los sensores.
+
+● Búsqueda de información de características técnicas de sensores.
+
+● Búsqueda de información de vulnerabilidades existentes en firmware de sensores.
+
+**Acciones de reconocimiento con respecto al software aplicativo:**
+
+● Búsqueda de información de alcance de aplicativo.
+
+● Búsqueda de información de vulnerabilidades existentes en aplicativo web.
+
+● Conocimiento de tipo de información incluida en la alerta recibida por correo por el alto consumo de agua.
+
+### **Etapa 2: Weaponization (Preparación)**
+
+● Planificación y preparación de ubicación sin-sospecha para poder llevar a cabo el ataque, por ejemplo en la cafetería del edificio.
+
+● Habilitación y configuración de AP con versión WiFI 4.
+
+● Filtración de vulnerabilidades conocidas para versión de firmware de los sensores.
+
+### **Etapa 3: Delivery (Distribución)**
+
+### **Etapa 4: Explotation (Explotación)**
+
+### **Etapa 5: Installation (Instalación)**
+
+### **Etapa 6: Command & Control (Comando y Control)**
+
+### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
 
