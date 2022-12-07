@@ -107,11 +107,14 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ### **Etapa 4: Explotation (Explotación)**
 
-● Inundación de señal para denegación de servicio usando ataques jamming.
+● Inundación inicial de señal para denegación de servicio usando ataques jamming, como el Beacom Frame Attack.
+
+● Suspender inundación y verificar disponibilidad.
+
 
 ### **Etapa 5: Installation (Instalación)**
 
-
+● Inundación periódica de señal para denegación de servicio usando ataques jamming, como el Beacom Frame Attack.
 
 ### **Etapa 6: Command & Control (Comando y Control)**
 
