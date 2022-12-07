@@ -89,22 +89,36 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ● Conocimiento de tipo de información incluida en la alerta recibida por correo por el alto consumo de agua.
 
-### **Etapa 2: Weaponization (Preparación)**
+### **Etapa 2: Weaponization**
 
 ● Planificación y preparación de ubicación sin-sospecha para poder llevar a cabo el ataque, por ejemplo en la cafetería del edificio.
 
-● Habilitación y configuración de AP con versión WiFI 4.
+● Instalación de nodoMCU ESP8266.
 
-● Filtración de vulnerabilidades conocidas para versión de firmware de los sensores.
+● Instalación de software ESP8266 Deauther.
+
 
 ### **Etapa 3: Delivery (Distribución)**
 
+● Escaneo de redes inalámbricas de las cercanías.
+
+● Seleccionar las redes para iniciar el ataque.
+
+
 ### **Etapa 4: Explotation (Explotación)**
+
+● Inundación de señal para denegación de servicio usando ataques jamming.
 
 ### **Etapa 5: Installation (Instalación)**
 
+
+
 ### **Etapa 6: Command & Control (Comando y Control)**
+
+● Verificación de la indisponibilidad de la red inalámbrica seleccionada.
+
 
 ### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
+● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
 
