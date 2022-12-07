@@ -75,18 +75,11 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ### **Etapa 2: Weaponization**
 
-● Planificación y preparación de ubicación sin-sospecha para poder llevar a cabo el ataque, por ejemplo en la cafetería del edificio.
-
-● Instalación de nodoMCU ESP8266.
-
-● Instalación de software ESP8266 Deauther.
-
+● Asegurar acceso de personal no autorizado.
 
 ### **Etapa 3: Delivery (Distribución)**
 
-● Escaneo de redes inalámbricas de las cercanías.
-
-● Seleccionar las redes para iniciar el ataque.
+● En lugares con mayor exposición o riesgo, conexión alterna via cable de los sensores.
 
 
 ### **Etapa 4: Explotation (Explotación)**
