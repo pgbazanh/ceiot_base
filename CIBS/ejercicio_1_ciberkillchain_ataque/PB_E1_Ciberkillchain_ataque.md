@@ -65,7 +65,7 @@ Esta información estará disponible en aplicativo que permitirá mostrar la inf
 Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el consumo del punto cuando el consumo de agua se vea excedido por un % superior al consumo histórico, con el fin de que el usuario pueda tomar medidas correctivas.
 
 
-## Resolución
+## Resolución ATAQUE
 
 ### **Etapa 1: Reconnaissance (Reconocimiento)**
 
@@ -80,14 +80,6 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 ● Búsqueda de información de características técnicas de sensores.
 
 ● Búsqueda de información de vulnerabilidades existentes en firmware de sensores.
-
-**Acciones de reconocimiento con respecto al software aplicativo:**
-
-● Búsqueda de información de alcance de aplicativo.
-
-● Búsqueda de información de vulnerabilidades existentes en aplicativo web.
-
-● Conocimiento de tipo de información incluida en la alerta recibida por correo por el alto consumo de agua.
 
 ### **Etapa 2: Weaponization**
 
