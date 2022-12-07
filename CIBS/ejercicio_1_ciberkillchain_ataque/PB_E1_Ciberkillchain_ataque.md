@@ -12,14 +12,14 @@ Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenar
 
 Se muestra a continuación las fases de la matriz de ataque de CyberKillChain.
 
-![Alt text](img/ckc1.png)
+![Alt text](img/Cyber-Kill-Chain-03.jpg)
 
 
 ## Datos trabajo práctico
 
 Habiendo conocido el modelo de Cyber Kill Chain, este será aplicado a mi trabajo práctico, el cual describo a continuación.
 
-Título de trabajo práctico: Sistema de Monitoreo inteligente del consumo de agua.
+Título de trabajo práctico: **Sistema de Monitoreo inteligente del consumo de agua.**
 
 Objetivo
 
@@ -54,14 +54,18 @@ servicio de repositorio que permita la guardar la siguiente información:
 ● Fecha y hora de captura
 
 ● Dato del caudal detectado
-El aplicativo alojado en un servicio de nube, tendrá como objetivo básico mostrar:
+El aplicativo alojado en un servicio de nube, tendrá como objetivo básico mostrar.
 
-● Caudal en tiempo real del sensor desplegado
+● Caudal en tiempo real del sensor desplegado.
 
-● Caudal acumulado en un periodo definido
+● Caudal acumulado en un periodo definido.
 
 Opcionalmente, se podría complementar con mayor información o inteligencia, que permita
 comparar información histórica en un periodo anterior, con el fin de alertar de posibles
 anomalías en el consumo.
 
 ## Resolución
+
+### Etapa 1: Reconnaissance
+
+
