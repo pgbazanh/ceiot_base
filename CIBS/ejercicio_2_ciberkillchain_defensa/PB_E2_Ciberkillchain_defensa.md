@@ -12,8 +12,11 @@ Desarrolla la defensa en función del ataque planteado en orden inverso
 
 ## Resolución
 
-### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
+### **Etapa 7: Actions on Objectives (Acciones sobre Objetivos)**
 
+● Contramedida de intercambio periódico de canales de conexión wifi. Puede ejecutarse de forma manual (reactivo), adaptativa o controlada por código.
+
+● Detectada indisponibilidad, asistencia física de inmediata.
 
 ### **Etapa 6: Command & Control (Comando y Control)**
 
