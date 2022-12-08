@@ -84,21 +84,23 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ### **Etapa 4: Explotation (Explotación)**
 
-● Inundación inicial de señal para denegación de servicio usando ataques jamming, como el Beacom Frame Attack.
+● Cambiar configuraciones estándar de la red inalámbrica (red 192.168)
 
-● Suspender inundación y verificar disponibilidad.
+● Configurar encriptación con protocolo de mayor nivel de seguridad: WPA2 o WPA3, si aplicara.
+
+● Robustecer claves administrativas.
 
 
 ### **Etapa 5: Installation (Instalación)**
 
-● Inundación periódica de señal para denegación de servicio usando ataques jamming, como el Beacom Frame Attack.
+● Detectada indisponibilidad, asistencia física de inmediata.
 
 ### **Etapa 6: Command & Control (Comando y Control)**
 
-● Verificación de la indisponibilidad de la red inalámbrica seleccionada.
+● Detectada indisponibilidad, asistencia física de inmediata.
 
 
 ### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
-● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
+
 
