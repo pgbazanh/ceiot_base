@@ -17,7 +17,10 @@ Desarrolla la defensa en función del ataque planteado en orden inverso
 
 ### **Etapa 6: Command & Control (Comando y Control)**
 
+● Contramedida de intercambio periódico de canales de conexión wifi. Puede ejecutarse de forma manual (reactivo), adaptativa o controlada por código.
+
 ● Detectada indisponibilidad, asistencia física de inmediata.
+
 
 ### **Etapa 5: Installation (Instalación)**
 
