@@ -8,9 +8,9 @@ Paolo Bazán Hernández
 
 ## Enunciado
 
-Desarrolla la defensa en función del ataque planteado en orden inverso.
+Desarrolla la defensa en función del ataque planteado en orden inverso
 
-## Resolución 
+## Resolución
 
 ### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
