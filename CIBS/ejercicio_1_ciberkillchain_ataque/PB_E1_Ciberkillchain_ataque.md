@@ -113,7 +113,7 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 ● Verificación de la indisponibilidad de la red inalámbrica seleccionada.
 
 
-### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
+### **Etapa 7: Actions on Objectives (Acciones sobre Objectivos)**
 
 ● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
 
