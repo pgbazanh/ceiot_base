@@ -1,4 +1,4 @@
-# Ejercicio CiberKillChain - Ataque
+# Ejercicio CiberKillChain - Defensa
 
 Haga una copia de este documto
 
@@ -8,79 +8,20 @@ Paolo Bazán Hernández
 
 ## Enunciado
 
-Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenario relacionado a tu trabajo práctico
+Desarrolla la defensa en función del ataque planteado en orden inverso.
 
-Se muestra a continuación las fases de la matriz de ataque de CyberKillChain.
+## Resolución 
 
-![Alt text](img/Cyber-Kill-Chain-03.jpg)
-
-
-## Datos trabajo práctico
-
-Habiendo conocido el modelo de Cyber Kill Chain, este será aplicado a mi trabajo práctico, el cual describo a continuación.
-
-Título de trabajo práctico: **Sistema de Monitoreo inteligente del consumo de agua.**
-
-Objetivo
-
-Permitir la lectura del caudal o flujo de agua en puntos en la red de agua potable de una
-casa, condominio o empresa con la finalidad de poder detectar fugas de agua y poder tomar
-acción correctiva de reparación, permitiendo principalmente ahorro del recurso hídrico y
-colateralmente, de dinero.
-
-El trabajo práctico se abordará con un sensor inalámbrico de caudal de agua que permita
-la lectura del caudal que pasa por el punto monitoreado. Los datos deberán ser enviados a
-través de un broker MQTT, para su almacenamiento en una base de datos. En el frente de
-visualización de la información, se propone la creación de aplicación que permita mostrar el
-flujo de agua en el punto monitoreado, así como su consumo acumulado durante un tiempo
-definido. En la figura, se muestra diagrama ilustrativo de la solución:
-
-![Alt text](img/DiagramaConceptualSmartWater.png)
+### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
 
 
-En la capa de sensorización, se necesitará de un dispositivo que permita capturar el caudal
-en tiempo real del agua que pasa por un punto específico. Este dispositivo deberá ser capaz
-de enviar el dato de forma inalámbrica al servicio de Broker MQTT.
-La conectividad del dispositivo, para el trabajo propuesto, deberá ser de tipo WiFi, que
-podría aplicarse también en una red doméstica o empresa pequeña.
-En la capa middleware, los servicios de broker MQTT, servirán para concentrar los datos
-enviados por los sensores. Estos podrían ser alojados por un servicio de nube o de forma
-on premise.
-Los datos procesados inicialmente por el broker MQTT deberán ser almacenados en un
-servicio de repositorio que permita la guardar la siguiente información:
+### **Etapa 6: Command & Control (Comando y Control)**
 
-● ID del dispositivo
+● Detectada indisponibilidad, asistencia física de inmediata.
 
-● Fecha y hora de captura
+### **Etapa 5: Installation (Instalación)**
 
-● Dato del caudal detectado
-El aplicativo alojado en un servicio de nube, tendrá como objetivo básico mostrar.
-
-    ● Caudal en tiempo real del sensor desplegado.
-
-    ● Caudal acumulado en un periodo definido.
-
-Esta información estará disponible en aplicativo que permitirá mostrar la información en tiempo real y de forma histórica. 
-
-Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el consumo del punto cuando el consumo de agua se vea excedido por un % superior al consumo histórico, con el fin de que el usuario pueda tomar medidas correctivas.
-
-
-## Resolución DEFENSA
-
-### **Etapa 1: Reconnaissance (Reconocimiento)**
-
-**Acciones de reconocimiento con respecto a la red de sensonres:**
-
-● Asegurar físicamente compartimiento donde se alojan los sensores. 
-
-### **Etapa 2: Weaponization**
-
-● Asegurar acceso de personal no autorizado.
-
-### **Etapa 3: Delivery (Distribución)**
-
-● En lugares con mayor exposición o riesgo, conexión alterna via cable de los sensores.
-
+● Detectada indisponibilidad, asistencia física de inmediata.
 
 ### **Etapa 4: Explotation (Explotación)**
 
@@ -91,16 +32,15 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 ● Robustecer claves administrativas.
 
 
-### **Etapa 5: Installation (Instalación)**
+### **Etapa 3: Delivery (Distribución)**
 
-● Detectada indisponibilidad, asistencia física de inmediata.
+● En lugares con mayor exposición o riesgo, conexión alterna via cable de los sensores.
 
-### **Etapa 6: Command & Control (Comando y Control)**
+### **Etapa 2: Weaponization**
 
-● Detectada indisponibilidad, asistencia física de inmediata.
+● Asegurar acceso de personal no autorizado.
 
+### **Etapa 1: Reconnaissance (Reconocimiento)**
 
-### **Etapa 7: Action on Objectives (Acciones sobre Objectivos)**
-
-
+● Asegurar físicamente compartimiento donde se alojan los sensores. 
 
