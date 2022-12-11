@@ -14,7 +14,7 @@ Desarrolla la defensa en función del ataque planteado en orden inverso
 
 ### **Etapa 7: Actions on Objectives (Acciones sobre Objetivos)**
 
-● Contramedida de intercambio periódico de canales de conexión wifi. Puede ejecutarse de forma manual (reactivo), adaptativa o controlada por código.
+● Verificación periódica de bitácoras de consumo de agua.
 
 ● Detectada indisponibilidad, asistencia física de inmediata.
 
@@ -22,18 +22,21 @@ Desarrolla la defensa en función del ataque planteado en orden inverso
 
 ● Contramedida de intercambio periódico de canales de conexión wifi. Puede ejecutarse de forma manual (reactivo), adaptativa o controlada por código.
 
-● Detectada indisponibilidad, asistencia física de inmediata.
+● Registro periódico de disponibilidad de sensores.
 
 
 ### **Etapa 5: Installation (Instalación)**
 
 ● Detectada indisponibilidad, asistencia física de inmediata.
 
+● Generación de alertas administrativas de pérdida de comunicación con sensores, indicando ID de sensor afectado, ubicación y timestamp de evento.
+
+
 ### **Etapa 4: Explotation (Explotación)**
 
 ● Cambiar configuraciones estándar de la red inalámbrica (red 192.168)
 
-● Configurar encriptación con protocolo de mayor nivel de seguridad: WPA2 o WPA3, si aplicara.
+● Evaluar la actualización de dispositivos compatives con WPA3, si aplicara, tanto a nivel cliente como APs.
 
 ● Robustecer claves administrativas.
 
@@ -42,9 +45,16 @@ Desarrolla la defensa en función del ataque planteado en orden inverso
 
 ● En lugares con mayor exposición o riesgo, conexión alterna via cable de los sensores.
 
+● Concientización sobre riesgos de seguridad y de comunicación al encontrar personal no autorizado.
+
+● Distribución de identificación de personal.
+
 ### **Etapa 2: Weaponization**
 
 ● Asegurar acceso de personal no autorizado.
+
+● Videovigilancia en sitios sin cobertura de monitoreo.
+
 
 ### **Etapa 1: Reconnaissance (Reconocimiento)**
 

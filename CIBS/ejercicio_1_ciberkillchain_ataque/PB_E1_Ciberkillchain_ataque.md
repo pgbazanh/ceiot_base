@@ -73,17 +73,15 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ● Identificación visual de sensores de medición de agua, distribuidos en puntos de salida de agua, como grifos. 
 
-● Identificación de la ubicación con acceso más sencilla a los sensores que formen parte de la red. 
+● Identificación de la ubicación con acceso a los sensores que formen parte de la red, que tengan menor riesgo de detección del ataque.
 
-● Escaneo de señal wifi de transmisión desde los sensores.
+● Identificación inicial de señal wifi de transmisión desde los sensores: potencia de señal y nombres de la red, usando apps desde el celular.
 
-● Búsqueda de información de características técnicas de sensores.
-
-● Búsqueda de información de vulnerabilidades existentes en firmware de sensores.
+● Búsqueda de información de características técnicas de sensores. Si aplicara identificación de nombre o modelo de los sensores desplegados.
 
 ### **Etapa 2: Weaponization**
 
-● Planificación y preparación de ubicación sin-sospecha para poder llevar a cabo el ataque, por ejemplo en la cafetería del edificio.
+● Preparación de ubicación sin-sospecha para poder llevar a cabo el ataque, por ejemplo en espacio poco concurrido.
 
 ● Instalación de nodoMCU ESP8266.
 
@@ -115,8 +113,8 @@ Asimismo, sistema tendrá capacidad de enviar alertas por correo indicando el co
 
 ### **Etapa 7: Actions on Objectives (Acciones sobre Objectivos)**
 
-● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
+● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sensores.
 
-● Capacidad de poder extender el ataque a otras redes que permiten la conexión de los sendosores.
+● Acciones sobre objetivo principal, por ejemplo, consumo no autorizado de agua.
 
 
